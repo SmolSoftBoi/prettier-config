@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ yarn add --dev @smolpack/prettier-config
 ```
 
 **Edit `package.json`**:

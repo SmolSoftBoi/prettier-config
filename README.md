@@ -1,4 +1,4 @@
-# `@azz/prettier-config`
+# `@smolpack/prettier-config`
 
 > My personal [Prettier](https://prettier.io) config.
 

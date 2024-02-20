@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "git@github.com:SmolSoftPoi/prettier-config.git",
   "author": "Kristian Matthews-Kennington. <kristian@matthews-kennington.com>",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "scripts": {
+    "prepack": "yarn prettier . --write"
+  }
 }

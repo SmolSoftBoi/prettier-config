@@ -15,6 +15,6 @@ $ yarn add --dev @smolpack/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@smolpack/prettier-config"
+  "prettier": "@smolpack/prettier-config",
 }
 ```
